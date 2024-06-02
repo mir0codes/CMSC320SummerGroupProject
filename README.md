@@ -9,4 +9,4 @@ Group Members:
 
 The topic we will be working with is CPU and GPU Benchmarks.
 The datasets we'll be using are [First Dataset](https://www.kaggle.com/datasets/michaelbryantds/cpu-and-gpu-product-data)
-and [Second Dataset](https://www.kaggle.com/datasets/alanjo/cpu-benchmarks)
+and [Second Dataset](https://www.kaggle.com/datasets/alanjo/cpu-benchmarks).
